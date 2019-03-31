@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: 
-Disallow: /2019/
-Disallow: /archives/
-Disallow: /categories/
-Disallow: /tags/
-Disallow: /about/
